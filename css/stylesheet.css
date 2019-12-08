@@ -1,6 +1,6 @@
 body {
 	background: linear-gradient(rgba(20, 26, 35,0.55),rgba(20, 26, 35, 0.55)),
-				url("../img/bg/1.jpg") no-repeat center center fixed;
+				url("https://cdn.jsdelivr.net/gh/CherryMinecraft/home@master/img/bg/1.jpg") no-repeat center center fixed;
 	background-size: cover;
 	font-family: "Open Sans", Helvetica;
 	margin: 0;
